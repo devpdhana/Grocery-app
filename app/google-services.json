@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "456971099241",
+    "project_id": "pn-store-bceab",
+    "storage_bucket": "pn-store-bceab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456971099241:android:a1a9b8cd666b571f1b56f8",
+        "android_client_info": {
+          "package_name": "com.dhana.pn_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456971099241-60kigsr4f654247n0vcee7d0o0gn898r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqqGKeHHVQsjnF1FbCL_xSBM-oU_KX7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456971099241-60kigsr4f654247n0vcee7d0o0gn898r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456971099241:android:32de70e6ea0df9f71b56f8",
+        "android_client_info": {
+          "package_name": "com.dhana.pn_storeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456971099241-60kigsr4f654247n0vcee7d0o0gn898r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqqGKeHHVQsjnF1FbCL_xSBM-oU_KX7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456971099241-60kigsr4f654247n0vcee7d0o0gn898r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
